@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yohannesmoke
 - 👀 I’m interested in software engineering 
 - 🌱 I’m currently learning ALX SE online learning platform
-- 💞️ I’m looking to collaborate on projects and other coding expireances
+- 💞️ I’m looking to collaborate on projects and other coding experiences
 - 📫 How to reach me you can email me on yohannesmekonen091355@gmail.com
 
 <!---
